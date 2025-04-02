@@ -1,3 +1,4 @@
 .env
-/.streamlit
-railway.ipynb
+/streamlit/.streamlit
+package/
+*.zip
